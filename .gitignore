@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSharpTricksAndTips/obj
+/.vs/CSharpTricksAndTips/v16/Server/sqlite3/storage.ide-wal
+/.vs/CSharpTricksAndTips/v16/Server/sqlite3/storage.ide-shm
+/.vs/CSharpTricksAndTips/v16/Server/sqlite3/storage.ide
